@@ -1,3 +1,5 @@
+jetty-9.3.30-SNAPSHOT
+
 jetty-9.3.29.v20201019 - 19 October 2020
  + 4217 SslConnection.DecryptedEnpoint.flush eternal busy loop
  + 4443 Track backport of ALPN APIs to Java 8
